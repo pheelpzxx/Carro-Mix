@@ -33,9 +33,4 @@ Um sistema simples e eficiente para gerenciar cadastros de **clientes** e seus r
 - [Ex: Python 3.10+, Node.js 18+, Java 17, etc.]
 - [Ex: Git, Docker (se aplicável)]
 
-### Passo a passo
 
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/seu-usuario/cadastro-clientes-carros.git
-   cd cadastro-clientes-carros
